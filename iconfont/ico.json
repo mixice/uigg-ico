@@ -6,6 +6,118 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "29595390",
+      "name": "24hour",
+      "font_class": "a-24hour",
+      "unicode": "ebc0",
+      "unicode_decimal": 60352
+    },
+    {
+      "icon_id": "29595391",
+      "name": "angular",
+      "font_class": "angular",
+      "unicode": "ec0b",
+      "unicode_decimal": 60427
+    },
+    {
+      "icon_id": "29595392",
+      "name": "folder-lock",
+      "font_class": "folder-lock",
+      "unicode": "ec0c",
+      "unicode_decimal": 60428
+    },
+    {
+      "icon_id": "29595393",
+      "name": "cactus",
+      "font_class": "cactus",
+      "unicode": "ec0d",
+      "unicode_decimal": 60429
+    },
+    {
+      "icon_id": "29595394",
+      "name": "codepen",
+      "font_class": "codepen",
+      "unicode": "ec0e",
+      "unicode_decimal": 60430
+    },
+    {
+      "icon_id": "29595395",
+      "name": "cent",
+      "font_class": "cent",
+      "unicode": "ec0f",
+      "unicode_decimal": 60431
+    },
+    {
+      "icon_id": "29595396",
+      "name": "figma",
+      "font_class": "figma",
+      "unicode": "ec10",
+      "unicode_decimal": 60432
+    },
+    {
+      "icon_id": "29595397",
+      "name": "dribbble",
+      "font_class": "dribbble",
+      "unicode": "ec11",
+      "unicode_decimal": 60433
+    },
+    {
+      "icon_id": "29595398",
+      "name": "squeeze",
+      "font_class": "squeeze",
+      "unicode": "ec12",
+      "unicode_decimal": 60434
+    },
+    {
+      "icon_id": "29595399",
+      "name": "ubuntu",
+      "font_class": "ubuntu",
+      "unicode": "ec13",
+      "unicode_decimal": 60435
+    },
+    {
+      "icon_id": "29595400",
+      "name": "opencollective",
+      "font_class": "opencollective",
+      "unicode": "ec14",
+      "unicode_decimal": 60436
+    },
+    {
+      "icon_id": "29595401",
+      "name": "way",
+      "font_class": "way",
+      "unicode": "ec15",
+      "unicode_decimal": 60437
+    },
+    {
+      "icon_id": "29595402",
+      "name": "place-user",
+      "font_class": "place-user",
+      "unicode": "ec16",
+      "unicode_decimal": 60438
+    },
+    {
+      "icon_id": "29595403",
+      "name": "npm",
+      "font_class": "npm",
+      "unicode": "ec17",
+      "unicode_decimal": 60439
+    },
+    {
+      "icon_id": "29595404",
+      "name": "zzz",
+      "font_class": "zzz",
+      "unicode": "ec18",
+      "unicode_decimal": 60440
+    },
+    {
+      "icon_id": "29595405",
+      "name": "xd",
+      "font_class": "xd",
+      "unicode": "ec19",
+      "unicode_decimal": 60441
+    },
+    {
       "icon_id": "29227659",
       "name": "area",
       "font_class": "area",
@@ -662,13 +774,6 @@
       "font_class": "route-addition",
       "unicode": "ebbe",
       "unicode_decimal": 60350
-    },
-    {
-      "icon_id": "26095818",
-      "name": "messager",
-      "font_class": "messager",
-      "unicode": "ebc0",
-      "unicode_decimal": 60352
     },
     {
       "icon_id": "26095819",

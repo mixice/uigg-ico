@@ -12,6 +12,70 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ico-a-24hour:before {
+  content: "\ebc0";
+}
+
+.ico-angular:before {
+  content: "\ec0b";
+}
+
+.ico-folder-lock:before {
+  content: "\ec0c";
+}
+
+.ico-cactus:before {
+  content: "\ec0d";
+}
+
+.ico-codepen:before {
+  content: "\ec0e";
+}
+
+.ico-cent:before {
+  content: "\ec0f";
+}
+
+.ico-figma:before {
+  content: "\ec10";
+}
+
+.ico-dribbble:before {
+  content: "\ec11";
+}
+
+.ico-squeeze:before {
+  content: "\ec12";
+}
+
+.ico-ubuntu:before {
+  content: "\ec13";
+}
+
+.ico-opencollective:before {
+  content: "\ec14";
+}
+
+.ico-way:before {
+  content: "\ec15";
+}
+
+.ico-place-user:before {
+  content: "\ec16";
+}
+
+.ico-npm:before {
+  content: "\ec17";
+}
+
+.ico-zzz:before {
+  content: "\ec18";
+}
+
+.ico-xd:before {
+  content: "\ec19";
+}
+
 .ico-area:before {
   content: "\ebff";
 }
@@ -386,10 +450,6 @@
 
 .ico-route-addition:before {
   content: "\ebbe";
-}
-
-.ico-messager:before {
-  content: "\ebc0";
 }
 
 .ico-totem:before {
