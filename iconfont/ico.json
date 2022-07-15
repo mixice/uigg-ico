@@ -6,6 +6,104 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "30251408",
+      "name": "blinds",
+      "font_class": "blinds",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "30251409",
+      "name": "beachball",
+      "font_class": "beachball",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "30251410",
+      "name": "blur-disable",
+      "font_class": "blur-disable",
+      "unicode": "ec1a",
+      "unicode_decimal": 60442
+    },
+    {
+      "icon_id": "30251411",
+      "name": "guide",
+      "font_class": "guide",
+      "unicode": "ec1b",
+      "unicode_decimal": 60443
+    },
+    {
+      "icon_id": "30251412",
+      "name": "bandit",
+      "font_class": "bandit",
+      "unicode": "ec1c",
+      "unicode_decimal": 60444
+    },
+    {
+      "icon_id": "30251413",
+      "name": "water-full",
+      "font_class": "water-full",
+      "unicode": "ec1d",
+      "unicode_decimal": 60445
+    },
+    {
+      "icon_id": "30251414",
+      "name": "contactless",
+      "font_class": "contactless",
+      "unicode": "ec1e",
+      "unicode_decimal": 60446
+    },
+    {
+      "icon_id": "30251415",
+      "name": "task",
+      "font_class": "task",
+      "unicode": "ec1f",
+      "unicode_decimal": 60447
+    },
+    {
+      "icon_id": "30251416",
+      "name": "ball",
+      "font_class": "ball",
+      "unicode": "ec20",
+      "unicode_decimal": 60448
+    },
+    {
+      "icon_id": "30251417",
+      "name": "vscode",
+      "font_class": "vscode",
+      "unicode": "ec21",
+      "unicode_decimal": 60449
+    },
+    {
+      "icon_id": "30251418",
+      "name": "tinder",
+      "font_class": "tinder",
+      "unicode": "ec22",
+      "unicode_decimal": 60450
+    },
+    {
+      "icon_id": "30251419",
+      "name": "circular-dotted",
+      "font_class": "circular-dotted",
+      "unicode": "ec23",
+      "unicode_decimal": 60451
+    },
+    {
+      "icon_id": "30251420",
+      "name": "meta",
+      "font_class": "meta",
+      "unicode": "ec24",
+      "unicode_decimal": 60452
+    },
+    {
+      "icon_id": "30251421",
+      "name": "blur",
+      "font_class": "blur",
+      "unicode": "ec25",
+      "unicode_decimal": 60453
+    },
+    {
       "icon_id": "29595390",
       "name": "24hour",
       "font_class": "a-24hour",
@@ -3450,13 +3548,6 @@
       "unicode_decimal": 60034
     },
     {
-      "icon_id": "22027403",
-      "name": "beachboll",
-      "font_class": "beachboll",
-      "unicode": "e783",
-      "unicode_decimal": 59267
-    },
-    {
       "icon_id": "22027659",
       "name": "dropper",
       "font_class": "dropper",
@@ -6808,13 +6899,6 @@
       "font_class": "align-horizontal-center",
       "unicode": "e6f9",
       "unicode_decimal": 59129
-    },
-    {
-      "icon_id": "22027521",
-      "name": "circular-fillet",
-      "font_class": "circular-fillet",
-      "unicode": "e7f9",
-      "unicode_decimal": 59385
     },
     {
       "icon_id": "22027777",

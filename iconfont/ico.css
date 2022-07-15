@@ -12,6 +12,62 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ico-blinds:before {
+  content: "\e783";
+}
+
+.ico-beachball:before {
+  content: "\e7f9";
+}
+
+.ico-blur-disable:before {
+  content: "\ec1a";
+}
+
+.ico-guide:before {
+  content: "\ec1b";
+}
+
+.ico-bandit:before {
+  content: "\ec1c";
+}
+
+.ico-water-full:before {
+  content: "\ec1d";
+}
+
+.ico-contactless:before {
+  content: "\ec1e";
+}
+
+.ico-task:before {
+  content: "\ec1f";
+}
+
+.ico-ball:before {
+  content: "\ec20";
+}
+
+.ico-vscode:before {
+  content: "\ec21";
+}
+
+.ico-tinder:before {
+  content: "\ec22";
+}
+
+.ico-circular-dotted:before {
+  content: "\ec23";
+}
+
+.ico-meta:before {
+  content: "\ec24";
+}
+
+.ico-blur:before {
+  content: "\ec25";
+}
+
 .ico-a-24hour:before {
   content: "\ebc0";
 }
@@ -1980,10 +2036,6 @@
   content: "\ea82";
 }
 
-.ico-beachboll:before {
-  content: "\e783";
-}
-
 .ico-dropper:before {
   content: "\e883";
 }
@@ -3898,10 +3950,6 @@
 
 .ico-align-horizontal-center:before {
   content: "\e6f9";
-}
-
-.ico-circular-fillet:before {
-  content: "\e7f9";
 }
 
 .ico-gothic:before {
