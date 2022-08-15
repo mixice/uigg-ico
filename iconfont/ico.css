@@ -12,6 +12,58 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ico-flickr:before {
+  content: "\ec26";
+}
+
+.ico-form:before {
+  content: "\ec27";
+}
+
+.ico-animoto:before {
+  content: "\ec28";
+}
+
+.ico-linkedin:before {
+  content: "\ec29";
+}
+
+.ico-more:before {
+  content: "\ec2a";
+}
+
+.ico-discord:before {
+  content: "\ec2b";
+}
+
+.ico-minesweeper:before {
+  content: "\ec2c";
+}
+
+.ico-tabnine:before {
+  content: "\ec2d";
+}
+
+.ico-squid:before {
+  content: "\ec2e";
+}
+
+.ico-sendcloud:before {
+  content: "\ec2f";
+}
+
+.ico-youtube:before {
+  content: "\ec30";
+}
+
+.ico-spotify:before {
+  content: "\ec31";
+}
+
+.ico-waffle:before {
+  content: "\ec32";
+}
+
 .ico-blinds:before {
   content: "\e783";
 }

@@ -6,6 +6,97 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "31259606",
+      "name": "flickr",
+      "font_class": "flickr",
+      "unicode": "ec26",
+      "unicode_decimal": 60454
+    },
+    {
+      "icon_id": "31259607",
+      "name": "form",
+      "font_class": "form",
+      "unicode": "ec27",
+      "unicode_decimal": 60455
+    },
+    {
+      "icon_id": "31259608",
+      "name": "animoto",
+      "font_class": "animoto",
+      "unicode": "ec28",
+      "unicode_decimal": 60456
+    },
+    {
+      "icon_id": "31259609",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "ec29",
+      "unicode_decimal": 60457
+    },
+    {
+      "icon_id": "31259610",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "ec2a",
+      "unicode_decimal": 60458
+    },
+    {
+      "icon_id": "31259611",
+      "name": "discord",
+      "font_class": "discord",
+      "unicode": "ec2b",
+      "unicode_decimal": 60459
+    },
+    {
+      "icon_id": "31259612",
+      "name": "minesweeper",
+      "font_class": "minesweeper",
+      "unicode": "ec2c",
+      "unicode_decimal": 60460
+    },
+    {
+      "icon_id": "31259613",
+      "name": "tabnine",
+      "font_class": "tabnine",
+      "unicode": "ec2d",
+      "unicode_decimal": 60461
+    },
+    {
+      "icon_id": "31259614",
+      "name": "squid",
+      "font_class": "squid",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "31259615",
+      "name": "sendcloud",
+      "font_class": "sendcloud",
+      "unicode": "ec2f",
+      "unicode_decimal": 60463
+    },
+    {
+      "icon_id": "31259616",
+      "name": "youtube",
+      "font_class": "youtube",
+      "unicode": "ec30",
+      "unicode_decimal": 60464
+    },
+    {
+      "icon_id": "31259617",
+      "name": "spotify",
+      "font_class": "spotify",
+      "unicode": "ec31",
+      "unicode_decimal": 60465
+    },
+    {
+      "icon_id": "31259618",
+      "name": "waffle",
+      "font_class": "waffle",
+      "unicode": "ec32",
+      "unicode_decimal": 60466
+    },
+    {
       "icon_id": "30251408",
       "name": "blinds",
       "font_class": "blinds",
