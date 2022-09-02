@@ -12,6 +12,134 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ico-3g:before {
+  content: "\eb88";
+}
+
+.ico-4g:before {
+  content: "\ec33";
+}
+
+.ico-5g:before {
+  content: "\ec34";
+}
+
+.ico-6g:before {
+  content: "\ec35";
+}
+
+.ico-2g:before {
+  content: "\ec36";
+}
+
+.ico-6k:before {
+  content: "\ec37";
+}
+
+.ico-2k:before {
+  content: "\ec38";
+}
+
+.ico-8k:before {
+  content: "\ec39";
+}
+
+.ico-forbidden:before {
+  content: "\ec3a";
+}
+
+.ico-8g:before {
+  content: "\ec3b";
+}
+
+.ico-origami:before {
+  content: "\ec3c";
+}
+
+.ico-7g:before {
+  content: "\ec3d";
+}
+
+.ico-frog:before {
+  content: "\ec3e";
+}
+
+.ico-4k:before {
+  content: "\ec3f";
+}
+
+.ico-square-0:before {
+  content: "\ec40";
+}
+
+.ico-hardstand:before {
+  content: "\ec41";
+}
+
+.ico-square-2:before {
+  content: "\ec42";
+}
+
+.ico-square-3:before {
+  content: "\ec43";
+}
+
+.ico-sofa:before {
+  content: "\ec44";
+}
+
+.ico-pectinid:before {
+  content: "\ec45";
+}
+
+.ico-square-8:before {
+  content: "\ec46";
+}
+
+.ico-square-7:before {
+  content: "\ec47";
+}
+
+.ico-safety-danger:before {
+  content: "\ec48";
+}
+
+.ico-square-1:before {
+  content: "\ec49";
+}
+
+.ico-square-5:before {
+  content: "\ec4a";
+}
+
+.ico-radiating:before {
+  content: "\ec4b";
+}
+
+.ico-square-6:before {
+  content: "\ec4c";
+}
+
+.ico-square-9:before {
+  content: "\ec4d";
+}
+
+.ico-square-4:before {
+  content: "\ec4e";
+}
+
+.ico-thread-flower:before {
+  content: "\ec4f";
+}
+
+.ico-thread-empty:before {
+  content: "\ec50";
+}
+
+.ico-thread:before {
+  content: "\ec51";
+}
+
 .ico-flickr:before {
   content: "\ec26";
 }
@@ -120,7 +248,7 @@
   content: "\ec25";
 }
 
-.ico-a-24hour:before {
+.ico-24hour:before {
   content: "\ebc0";
 }
 
@@ -762,10 +890,6 @@
 
 .ico-format-link-disable:before {
   content: "\eb87";
-}
-
-.ico-a-5g:before {
-  content: "\eb88";
 }
 
 .ico-safety-disable:before {
@@ -3824,10 +3948,6 @@
   content: "\eaef";
 }
 
-.ico-3g:before {
-  content: "\e6f0";
-}
-
 .ico-circular-deviation-right:before {
   content: "\e7f0";
 }
@@ -3842,10 +3962,6 @@
 
 .ico-suffix-tpl:before {
   content: "\eaf0";
-}
-
-.ico-6g:before {
-  content: "\e6f1";
 }
 
 .ico-beaker:before {
@@ -3960,10 +4076,6 @@
   content: "\eaf6";
 }
 
-.ico-4k:before {
-  content: "\e6f7";
-}
-
 .ico-circular-direction-up:before {
   content: "\e7f7";
 }
@@ -3978,10 +4090,6 @@
 
 .ico-suffix-ver:before {
   content: "\eaf7";
-}
-
-.ico-8k:before {
-  content: "\e6f8";
 }
 
 .ico-circular-help:before {
@@ -4054,10 +4162,6 @@
 
 .ico-suffix-wmf:before {
   content: "\eafb";
-}
-
-.ico-4g:before {
-  content: "\e6fc";
 }
 
 .ico-circular-intersect:before {
@@ -4152,10 +4256,6 @@
   content: "\eb00";
 }
 
-.ico-2k:before {
-  content: "\e701";
-}
-
 .ico-circular-media-record:before {
   content: "\e801";
 }
@@ -4190,10 +4290,6 @@
 
 .ico-sun:before {
   content: "\eb02";
-}
-
-.ico-2g:before {
-  content: "\e703";
 }
 
 .ico-circular-pie-0:before {
