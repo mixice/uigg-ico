@@ -12,35 +12,155 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.ico-3g:before {
+.ico-advertisement:before {
+  content: "\ea2f";
+}
+
+.ico-git-merge:before {
+  content: "\ebb2";
+}
+
+.ico-git-commit:before {
+  content: "\ec03";
+}
+
+.ico-circular-full:before {
+  content: "\ec52";
+}
+
+.ico-ink:before {
+  content: "\ec53";
+}
+
+.ico-git-branch:before {
+  content: "\ec54";
+}
+
+.ico-googleplay:before {
+  content: "\ec55";
+}
+
+.ico-Hexagon-bolt:before {
+  content: "\ec56";
+}
+
+.ico-file-more:before {
+  content: "\ec57";
+}
+
+.ico-office-team:before {
+  content: "\ec58";
+}
+
+.ico-git-pull:before {
+  content: "\ec59";
+}
+
+.ico-office-outlook:before {
+  content: "\ec5a";
+}
+
+.ico-adobe:before {
+  content: "\ec5b";
+}
+
+.ico-folder-zip:before {
+  content: "\ec5c";
+}
+
+.ico-office-onenote:before {
+  content: "\ec5d";
+}
+
+.ico-hexagon:before {
+  content: "\ec5e";
+}
+
+.ico-office-access:before {
+  content: "\ec5f";
+}
+
+.ico-flutter:before {
+  content: "\ec60";
+}
+
+.ico-parachute:before {
+  content: "\ec61";
+}
+
+.ico-newspaper:before {
+  content: "\ec62";
+}
+
+.ico-square-full:before {
+  content: "\ec63";
+}
+
+.ico-pulse:before {
+  content: "\ec64";
+}
+
+.ico-svg:before {
+  content: "\ec65";
+}
+
+.ico-rain-snow:before {
+  content: "\ec66";
+}
+
+.ico-travelcard:before {
+  content: "\ec67";
+}
+
+.ico-healthcode:before {
+  content: "\ec68";
+}
+
+.ico-roulette:before {
+  content: "\ec69";
+}
+
+.ico-reddit:before {
+  content: "\ec6a";
+}
+
+.ico-phase:before {
+  content: "\ec6b";
+}
+
+.ico-temple:before {
+  content: "\ec6c";
+}
+
+.ico-a-3g:before {
   content: "\eb88";
 }
 
-.ico-4g:before {
+.ico-a-4g:before {
   content: "\ec33";
 }
 
-.ico-5g:before {
+.ico-a-5g:before {
   content: "\ec34";
 }
 
-.ico-6g:before {
+.ico-a-6g:before {
   content: "\ec35";
 }
 
-.ico-2g:before {
+.ico-a-2g:before {
   content: "\ec36";
 }
 
-.ico-6k:before {
+.ico-a-6k:before {
   content: "\ec37";
 }
 
-.ico-2k:before {
+.ico-a-2k:before {
   content: "\ec38";
 }
 
-.ico-8k:before {
+.ico-a-8k:before {
   content: "\ec39";
 }
 
@@ -48,7 +168,7 @@
   content: "\ec3a";
 }
 
-.ico-8g:before {
+.ico-a-8g:before {
   content: "\ec3b";
 }
 
@@ -56,7 +176,7 @@
   content: "\ec3c";
 }
 
-.ico-7g:before {
+.ico-a-7g:before {
   content: "\ec3d";
 }
 
@@ -64,7 +184,7 @@
   content: "\ec3e";
 }
 
-.ico-4k:before {
+.ico-a-4k:before {
   content: "\ec3f";
 }
 
@@ -248,7 +368,7 @@
   content: "\ec25";
 }
 
-.ico-24hour:before {
+.ico-a-24hour:before {
   content: "\ebc0";
 }
 
@@ -326,10 +446,6 @@
 
 .ico-best:before {
   content: "\ec02";
-}
-
-.ico-hexagon:before {
-  content: "\ec03";
 }
 
 .ico-password:before {
@@ -636,10 +752,6 @@
   content: "\ebb1";
 }
 
-.ico-icox:before {
-  content: "\ebb2";
-}
-
 .ico-opt:before {
   content: "\ebb3";
 }
@@ -694,10 +806,6 @@
 
 .ico-earphone:before {
   content: "\ea2d";
-}
-
-.ico-digg:before {
-  content: "\ea2f";
 }
 
 .ico-macdonald:before {

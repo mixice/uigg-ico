@@ -6,6 +6,216 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "32689707",
+      "name": "advertisement",
+      "font_class": "advertisement",
+      "unicode": "ea2f",
+      "unicode_decimal": 59951
+    },
+    {
+      "icon_id": "32689708",
+      "name": "git-merge",
+      "font_class": "git-merge",
+      "unicode": "ebb2",
+      "unicode_decimal": 60338
+    },
+    {
+      "icon_id": "32689709",
+      "name": "git-commit",
+      "font_class": "git-commit",
+      "unicode": "ec03",
+      "unicode_decimal": 60419
+    },
+    {
+      "icon_id": "32689710",
+      "name": "circular-full",
+      "font_class": "circular-full",
+      "unicode": "ec52",
+      "unicode_decimal": 60498
+    },
+    {
+      "icon_id": "32689711",
+      "name": "ink",
+      "font_class": "ink",
+      "unicode": "ec53",
+      "unicode_decimal": 60499
+    },
+    {
+      "icon_id": "32689712",
+      "name": "git-branch",
+      "font_class": "git-branch",
+      "unicode": "ec54",
+      "unicode_decimal": 60500
+    },
+    {
+      "icon_id": "32689713",
+      "name": "googleplay",
+      "font_class": "googleplay",
+      "unicode": "ec55",
+      "unicode_decimal": 60501
+    },
+    {
+      "icon_id": "32689714",
+      "name": "Hexagon-bolt",
+      "font_class": "Hexagon-bolt",
+      "unicode": "ec56",
+      "unicode_decimal": 60502
+    },
+    {
+      "icon_id": "32689715",
+      "name": "file-more",
+      "font_class": "file-more",
+      "unicode": "ec57",
+      "unicode_decimal": 60503
+    },
+    {
+      "icon_id": "32689716",
+      "name": "office-team",
+      "font_class": "office-team",
+      "unicode": "ec58",
+      "unicode_decimal": 60504
+    },
+    {
+      "icon_id": "32689717",
+      "name": "git-pull",
+      "font_class": "git-pull",
+      "unicode": "ec59",
+      "unicode_decimal": 60505
+    },
+    {
+      "icon_id": "32689718",
+      "name": "office-outlook",
+      "font_class": "office-outlook",
+      "unicode": "ec5a",
+      "unicode_decimal": 60506
+    },
+    {
+      "icon_id": "32689719",
+      "name": "adobe",
+      "font_class": "adobe",
+      "unicode": "ec5b",
+      "unicode_decimal": 60507
+    },
+    {
+      "icon_id": "32689720",
+      "name": "folder-zip",
+      "font_class": "folder-zip",
+      "unicode": "ec5c",
+      "unicode_decimal": 60508
+    },
+    {
+      "icon_id": "32689721",
+      "name": "office-onenote",
+      "font_class": "office-onenote",
+      "unicode": "ec5d",
+      "unicode_decimal": 60509
+    },
+    {
+      "icon_id": "32689722",
+      "name": "hexagon",
+      "font_class": "hexagon",
+      "unicode": "ec5e",
+      "unicode_decimal": 60510
+    },
+    {
+      "icon_id": "32689723",
+      "name": "office-access",
+      "font_class": "office-access",
+      "unicode": "ec5f",
+      "unicode_decimal": 60511
+    },
+    {
+      "icon_id": "32689724",
+      "name": "flutter",
+      "font_class": "flutter",
+      "unicode": "ec60",
+      "unicode_decimal": 60512
+    },
+    {
+      "icon_id": "32689725",
+      "name": "parachute",
+      "font_class": "parachute",
+      "unicode": "ec61",
+      "unicode_decimal": 60513
+    },
+    {
+      "icon_id": "32689726",
+      "name": "newspaper",
+      "font_class": "newspaper",
+      "unicode": "ec62",
+      "unicode_decimal": 60514
+    },
+    {
+      "icon_id": "32689727",
+      "name": "square-full",
+      "font_class": "square-full",
+      "unicode": "ec63",
+      "unicode_decimal": 60515
+    },
+    {
+      "icon_id": "32689728",
+      "name": "pulse",
+      "font_class": "pulse",
+      "unicode": "ec64",
+      "unicode_decimal": 60516
+    },
+    {
+      "icon_id": "32689729",
+      "name": "svg",
+      "font_class": "svg",
+      "unicode": "ec65",
+      "unicode_decimal": 60517
+    },
+    {
+      "icon_id": "32689730",
+      "name": "rain-snow",
+      "font_class": "rain-snow",
+      "unicode": "ec66",
+      "unicode_decimal": 60518
+    },
+    {
+      "icon_id": "32689731",
+      "name": "travelcard",
+      "font_class": "travelcard",
+      "unicode": "ec67",
+      "unicode_decimal": 60519
+    },
+    {
+      "icon_id": "32689732",
+      "name": "healthcode",
+      "font_class": "healthcode",
+      "unicode": "ec68",
+      "unicode_decimal": 60520
+    },
+    {
+      "icon_id": "32689733",
+      "name": "roulette",
+      "font_class": "roulette",
+      "unicode": "ec69",
+      "unicode_decimal": 60521
+    },
+    {
+      "icon_id": "32689734",
+      "name": "reddit",
+      "font_class": "reddit",
+      "unicode": "ec6a",
+      "unicode_decimal": 60522
+    },
+    {
+      "icon_id": "32689735",
+      "name": "phase",
+      "font_class": "phase",
+      "unicode": "ec6b",
+      "unicode_decimal": 60523
+    },
+    {
+      "icon_id": "32689736",
+      "name": "temple",
+      "font_class": "temple",
+      "unicode": "ec6c",
+      "unicode_decimal": 60524
+    },
+    {
       "icon_id": "31626638",
       "name": "3g",
       "font_class": "a-3g",
@@ -559,13 +769,6 @@
       "unicode_decimal": 60418
     },
     {
-      "icon_id": "29227663",
-      "name": "hexagon",
-      "font_class": "hexagon",
-      "unicode": "ec03",
-      "unicode_decimal": 60419
-    },
-    {
       "icon_id": "29227664",
       "name": "password",
       "font_class": "password",
@@ -1098,13 +1301,6 @@
       "unicode_decimal": 60337
     },
     {
-      "icon_id": "26095804",
-      "name": "icox",
-      "font_class": "icox",
-      "unicode": "ebb2",
-      "unicode_decimal": 60338
-    },
-    {
       "icon_id": "26095805",
       "name": "opt",
       "font_class": "opt",
@@ -1201,13 +1397,6 @@
       "font_class": "earphone",
       "unicode": "ea2d",
       "unicode_decimal": 59949
-    },
-    {
-      "icon_id": "24750179",
-      "name": "digg",
-      "font_class": "digg",
-      "unicode": "ea2f",
-      "unicode_decimal": 59951
     },
     {
       "icon_id": "24750180",
