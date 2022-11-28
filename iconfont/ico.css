@@ -5,11 +5,357 @@
 }
 
 .ico {
-  font-family: "ico" !important;
+  font-family: ico !important;
   font-size: 24px;
   font-style: normal;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  vertical-align: middle;
+  line-height: 1;
+  text-transform: none;
+  display: inline-block;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+}
+
+.ico-thumbtack-disable:before {
+  content: "\e7cb";
+}
+
+.ico-vagina:before {
+  content: "\e84a";
+}
+
+.ico-trim:before {
+  content: "\e8e3";
+}
+
+.ico-zodiac-dog:before {
+  content: "\e9ad";
+}
+
+.ico-vieworiginal:before {
+  content: "\ebf8";
+}
+
+.ico-toll:before {
+  content: "\ec6d";
+}
+
+.ico-variable:before {
+  content: "\ec6e";
+}
+
+.ico-zodiac-chicken:before {
+  content: "\ec6f";
+}
+
+.ico-waveshape:before {
+  content: "\ec70";
+}
+
+.ico-zodiac-cattle:before {
+  content: "\ec71";
+}
+
+.ico-web:before {
+  content: "\ec72";
+}
+
+.ico-zodiac-mouse:before {
+  content: "\ec73";
+}
+
+.ico-zodiac-snake:before {
+  content: "\ec74";
+}
+
+.ico-blast:before {
+  content: "\ec75";
+}
+
+.ico-zodiac-monkey:before {
+  content: "\ec76";
+}
+
+.ico-zodiac-pig:before {
+  content: "\ec77";
+}
+
+.ico-zodiac-horse:before {
+  content: "\ec78";
+}
+
+.ico-bracket:before {
+  content: "\ec79";
+}
+
+.ico-blast-center:before {
+  content: "\ec7a";
+}
+
+.ico-alignment:before {
+  content: "\ec7b";
+}
+
+.ico-zodiac-tiger:before {
+  content: "\ec7c";
+}
+
+.ico-btc:before {
+  content: "\ec7d";
+}
+
+.ico-angle-rotate-3d:before {
+  content: "\ec7e";
+}
+
+.ico-ascend:before {
+  content: "\ec7f";
+}
+
+.ico-chrysin:before {
+  content: "\ec80";
+}
+
+.ico-brace:before {
+  content: "\ec81";
+}
+
+.ico-bt:before {
+  content: "\ec82";
+}
+
+.ico-zodiac-rabbit:before {
+  content: "\ec83";
+}
+
+.ico-zodiac-sheep:before {
+  content: "\ec84";
+}
+
+.ico-coin-rmb:before {
+  content: "\ec85";
+}
+
+.ico-converge:before {
+  content: "\ec86";
+}
+
+.ico-dialpad:before {
+  content: "\ec87";
+}
+
+.ico-coin-btc:before {
+  content: "\ec88";
+}
+
+.ico-delve:before {
+  content: "\ec89";
+}
+
+.ico-bing:before {
+  content: "\ec8a";
+}
+
+.ico-plug-disconnect:before {
+  content: "\ec8b";
+}
+
+.ico-ringdot:before {
+  content: "\ec8c";
+}
+
+.ico-markpen:before {
+  content: "\ec8d";
+}
+
+.ico-cutter:before {
+  content: "\ec8e";
+}
+
+.ico-coin-dollar:before {
+  content: "\ec8f";
+}
+
+.ico-circular-variable:before {
+  content: "\ec90";
+}
+
+.ico-column:before {
+  content: "\ec91";
+}
+
+.ico-parody:before {
+  content: "\ec92";
+}
+
+.ico-ribbon:before {
+  content: "\ec93";
+}
+
+.ico-penis:before {
+  content: "\ec94";
+}
+
+.ico-file-data:before {
+  content: "\ec95";
+}
+
+.ico-glimmer:before {
+  content: "\ec96";
+}
+
+.ico-cocoa:before {
+  content: "\ec97";
+}
+
+.ico-zodiac-dragon:before {
+  content: "\ec98";
+}
+
+.ico-scenic:before {
+  content: "\ec99";
+}
+
+.ico-cat:before {
+  content: "\ec9a";
+}
+
+.ico-plug-connect:before {
+  content: "\ec9b";
+}
+
+.ico-graphical:before {
+  content: "\ec9c";
+}
+
+.ico-condom:before {
+  content: "\ec9d";
+}
+
+.ico-object:before {
+  content: "\ec9e";
+}
+
+.ico-descend:before {
+  content: "\ec9f";
+}
+
+.ico-interaction:before {
+  content: "\eca0";
+}
+
+.ico-language-en:before {
+  content: "\eca1";
+}
+
+.ico-reckon:before {
+  content: "\eca2";
+}
+
+.ico-remote:before {
+  content: "\eca3";
+}
+
+.ico-assessment:before {
+  content: "\eca4";
+}
+
+.ico-threaded:before {
+  content: "\eca5";
+}
+
+.ico-parentheses:before {
+  content: "\eca6";
+}
+
+.ico-firecracker:before {
+  content: "\eca7";
+}
+
+.ico-function:before {
+  content: "\eca8";
+}
+
+.ico-customer:before {
+  content: "\eca9";
+}
+
+.ico-currency-thb:before {
+  content: "\ecaa";
+}
+
+.ico-statue:before {
+  content: "\ecab";
+}
+
+.ico-memo:before {
+  content: "\ecac";
+}
+
+.ico-dom:before {
+  content: "\ecad";
+}
+
+.ico-giftbox:before {
+  content: "\ecae";
+}
+
+.ico-shelveset:before {
+  content: "\ecaf";
+}
+
+.ico-read:before {
+  content: "\ecb0";
+}
+
+.ico-itemize:before {
+  content: "\ecb1";
+}
+
+.ico-inkpen:before {
+  content: "\ecb2";
+}
+
+.ico-massager:before {
+  content: "\ecb3";
+}
+
+.ico-home-warn:before {
+  content: "\ecb4";
+}
+
+.ico-icon:before {
+  content: "\ecb5";
+}
+
+.ico-style:before {
+  content: "\ecb6";
+}
+
+.ico-language-zh:before {
+  content: "\ecb7";
+}
+
+.ico-nearby:before {
+  content: "\ecb8";
+}
+
+.ico-stream:before {
+  content: "\ecb9";
+}
+
+.ico-file-search:before {
+  content: "\ecba";
+}
+
+.ico-quality:before {
+  content: "\ecbb";
 }
 
 .ico-advertisement:before {
@@ -570,10 +916,6 @@
 
 .ico-tip-warn:before {
   content: "\ebf7";
-}
-
-.ico-btc:before {
-  content: "\ebf8";
 }
 
 .ico-moire:before {
@@ -2996,10 +3338,6 @@
   content: "\e8ad";
 }
 
-.ico-pig:before {
-  content: "\e9ad";
-}
-
 .ico-suffix-grp:before {
   content: "\eaad";
 }
@@ -3468,10 +3806,6 @@
   content: "\eaca";
 }
 
-.ico-cattle:before {
-  content: "\e7cb";
-}
-
 .ico-Format-brush:before {
   content: "\e8cb";
 }
@@ -3854,10 +4188,6 @@
 
 .ico-circular-arrow-left:before {
   content: "\e7e3";
-}
-
-.ico-functions:before {
-  content: "\e8e3";
 }
 
 .ico-rope:before {
@@ -5770,10 +6100,6 @@
 
 .ico-app:before {
   content: "\e74a";
-}
-
-.ico-currency-thb:before {
-  content: "\e84a";
 }
 
 .ico-lottery-fail:before {
