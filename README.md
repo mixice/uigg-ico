@@ -1,6 +1,6 @@
 # UIGG ICO
 
-UIGG is quick CSS scheme, based on LESS and JQuery.
+UIGG is quick CSS scheme.
 
 Official website: [ui.gg](https://ui.gg/)
 
