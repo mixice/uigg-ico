@@ -6,6 +6,223 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "34154276",
+      "name": "bubble-comment",
+      "font_class": "bubble-comment",
+      "unicode": "ecbc",
+      "unicode_decimal": 60604
+    },
+    {
+      "icon_id": "34154000",
+      "name": "anger",
+      "font_class": "anger",
+      "unicode": "e896",
+      "unicode_decimal": 59542
+    },
+    {
+      "icon_id": "34154002",
+      "name": "applets",
+      "font_class": "applets",
+      "unicode": "ecbd",
+      "unicode_decimal": 60605
+    },
+    {
+      "icon_id": "34154003",
+      "name": "contract",
+      "font_class": "contract",
+      "unicode": "ecbe",
+      "unicode_decimal": 60606
+    },
+    {
+      "icon_id": "34154004",
+      "name": "audio",
+      "font_class": "audio",
+      "unicode": "ecbf",
+      "unicode_decimal": 60607
+    },
+    {
+      "icon_id": "34154005",
+      "name": "avocado",
+      "font_class": "avocado",
+      "unicode": "ecc0",
+      "unicode_decimal": 60608
+    },
+    {
+      "icon_id": "34154006",
+      "name": "branch",
+      "font_class": "branch",
+      "unicode": "ecc1",
+      "unicode_decimal": 60609
+    },
+    {
+      "icon_id": "34154007",
+      "name": "angle-exchange",
+      "font_class": "angle-exchange",
+      "unicode": "ecc2",
+      "unicode_decimal": 60610
+    },
+    {
+      "icon_id": "34154008",
+      "name": "cucumber",
+      "font_class": "cucumber",
+      "unicode": "ecc3",
+      "unicode_decimal": 60611
+    },
+    {
+      "icon_id": "34154009",
+      "name": "chum",
+      "font_class": "chum",
+      "unicode": "ecc4",
+      "unicode_decimal": 60612
+    },
+    {
+      "icon_id": "34154010",
+      "name": "broccoli",
+      "font_class": "broccoli",
+      "unicode": "ecc5",
+      "unicode_decimal": 60613
+    },
+    {
+      "icon_id": "34154011",
+      "name": "exchange",
+      "font_class": "exchange",
+      "unicode": "ecc6",
+      "unicode_decimal": 60614
+    },
+    {
+      "icon_id": "34154012",
+      "name": "pancakeswap",
+      "font_class": "pancakeswap",
+      "unicode": "ecc7",
+      "unicode_decimal": 60615
+    },
+    {
+      "icon_id": "34154013",
+      "name": "incense",
+      "font_class": "incense",
+      "unicode": "ecc8",
+      "unicode_decimal": 60616
+    },
+    {
+      "icon_id": "34154014",
+      "name": "popper",
+      "font_class": "popper",
+      "unicode": "ecc9",
+      "unicode_decimal": 60617
+    },
+    {
+      "icon_id": "34154015",
+      "name": "goldensection",
+      "font_class": "goldensection",
+      "unicode": "ecca",
+      "unicode_decimal": 60618
+    },
+    {
+      "icon_id": "34154016",
+      "name": "redenvelope",
+      "font_class": "redenvelope",
+      "unicode": "eccb",
+      "unicode_decimal": 60619
+    },
+    {
+      "icon_id": "34154017",
+      "name": "gameboy",
+      "font_class": "gameboy",
+      "unicode": "eccc",
+      "unicode_decimal": 60620
+    },
+    {
+      "icon_id": "34154018",
+      "name": "cupid",
+      "font_class": "cupid",
+      "unicode": "eccd",
+      "unicode_decimal": 60621
+    },
+    {
+      "icon_id": "34154019",
+      "name": "paycode",
+      "font_class": "paycode",
+      "unicode": "ecce",
+      "unicode_decimal": 60622
+    },
+    {
+      "icon_id": "34154020",
+      "name": "emot-devil",
+      "font_class": "emot-devil",
+      "unicode": "eccf",
+      "unicode_decimal": 60623
+    },
+    {
+      "icon_id": "34154021",
+      "name": "usdt",
+      "font_class": "usdt",
+      "unicode": "ecd0",
+      "unicode_decimal": 60624
+    },
+    {
+      "icon_id": "34154022",
+      "name": "ecny",
+      "font_class": "ecny",
+      "unicode": "ecd1",
+      "unicode_decimal": 60625
+    },
+    {
+      "icon_id": "34154023",
+      "name": "goal",
+      "font_class": "goal",
+      "unicode": "ecd2",
+      "unicode_decimal": 60626
+    },
+    {
+      "icon_id": "34154024",
+      "name": "diamond-vip",
+      "font_class": "diamond-vip",
+      "unicode": "ecd3",
+      "unicode_decimal": 60627
+    },
+    {
+      "icon_id": "34154025",
+      "name": "pain-children",
+      "font_class": "pain-children",
+      "unicode": "ecd4",
+      "unicode_decimal": 60628
+    },
+    {
+      "icon_id": "34154026",
+      "name": "usdc",
+      "font_class": "usdc",
+      "unicode": "ecd5",
+      "unicode_decimal": 60629
+    },
+    {
+      "icon_id": "34154027",
+      "name": "swap",
+      "font_class": "swap",
+      "unicode": "ecd6",
+      "unicode_decimal": 60630
+    },
+    {
+      "icon_id": "34154028",
+      "name": "emot-clown",
+      "font_class": "emot-clown",
+      "unicode": "ecd7",
+      "unicode_decimal": 60631
+    },
+    {
+      "icon_id": "34154029",
+      "name": "decentralized",
+      "font_class": "decentralized",
+      "unicode": "ecd8",
+      "unicode_decimal": 60632
+    },
+    {
+      "icon_id": "34154030",
+      "name": "trumpet",
+      "font_class": "trumpet",
+      "unicode": "ecd9",
+      "unicode_decimal": 60633
+    },
+    {
       "icon_id": "33107772",
       "name": "thumbtack-disable",
       "font_class": "thumbtack-disable",
@@ -5156,13 +5373,6 @@
       "font_class": "bra",
       "unicode": "e796",
       "unicode_decimal": 59286
-    },
-    {
-      "icon_id": "22027678",
-      "name": "emot-children",
-      "font_class": "emot-children",
-      "unicode": "e896",
-      "unicode_decimal": 59542
     },
     {
       "icon_id": "22027934",

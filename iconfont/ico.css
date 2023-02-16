@@ -22,6 +22,130 @@
   white-space: nowrap;
 }
 
+.ico-bubble-comment:before {
+  content: "\ecbc";
+}
+
+.ico-anger:before {
+  content: "\e896";
+}
+
+.ico-applets:before {
+  content: "\ecbd";
+}
+
+.ico-contract:before {
+  content: "\ecbe";
+}
+
+.ico-audio:before {
+  content: "\ecbf";
+}
+
+.ico-avocado:before {
+  content: "\ecc0";
+}
+
+.ico-branch:before {
+  content: "\ecc1";
+}
+
+.ico-angle-exchange:before {
+  content: "\ecc2";
+}
+
+.ico-cucumber:before {
+  content: "\ecc3";
+}
+
+.ico-chum:before {
+  content: "\ecc4";
+}
+
+.ico-broccoli:before {
+  content: "\ecc5";
+}
+
+.ico-exchange:before {
+  content: "\ecc6";
+}
+
+.ico-pancakeswap:before {
+  content: "\ecc7";
+}
+
+.ico-incense:before {
+  content: "\ecc8";
+}
+
+.ico-popper:before {
+  content: "\ecc9";
+}
+
+.ico-goldensection:before {
+  content: "\ecca";
+}
+
+.ico-redenvelope:before {
+  content: "\eccb";
+}
+
+.ico-gameboy:before {
+  content: "\eccc";
+}
+
+.ico-cupid:before {
+  content: "\eccd";
+}
+
+.ico-paycode:before {
+  content: "\ecce";
+}
+
+.ico-emot-devil:before {
+  content: "\eccf";
+}
+
+.ico-usdt:before {
+  content: "\ecd0";
+}
+
+.ico-ecny:before {
+  content: "\ecd1";
+}
+
+.ico-goal:before {
+  content: "\ecd2";
+}
+
+.ico-diamond-vip:before {
+  content: "\ecd3";
+}
+
+.ico-pain-children:before {
+  content: "\ecd4";
+}
+
+.ico-usdc:before {
+  content: "\ecd5";
+}
+
+.ico-swap:before {
+  content: "\ecd6";
+}
+
+.ico-emot-clown:before {
+  content: "\ecd7";
+}
+
+.ico-decentralized:before {
+  content: "\ecd8";
+}
+
+.ico-trumpet:before {
+  content: "\ecd9";
+}
+
 .ico-thumbtack-disable:before {
   content: "\e7cb";
 }
@@ -2964,10 +3088,6 @@
 
 .ico-bra:before {
   content: "\e796";
-}
-
-.ico-emot-children:before {
-  content: "\e896";
 }
 
 .ico-nipple:before {
