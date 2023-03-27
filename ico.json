@@ -6,6 +6,13 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "34782853",
+      "name": "arrow-undo",
+      "font_class": "arrow-undo",
+      "unicode": "ecda",
+      "unicode_decimal": 60634
+    },
+    {
       "icon_id": "34154276",
       "name": "bubble-comment",
       "font_class": "bubble-comment",
@@ -3889,13 +3896,6 @@
       "font_class": "wash",
       "unicode": "eb66",
       "unicode_decimal": 60262
-    },
-    {
-      "icon_id": "22027375",
-      "name": "arrow-return",
-      "font_class": "arrow-return",
-      "unicode": "e767",
-      "unicode_decimal": 59239
     },
     {
       "icon_id": "22027631",
