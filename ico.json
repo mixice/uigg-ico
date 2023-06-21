@@ -6,6 +6,83 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "36101012",
+      "name": "capcut",
+      "font_class": "capcut",
+      "unicode": "ecdb",
+      "unicode_decimal": 60635
+    },
+    {
+      "icon_id": "36101013",
+      "name": "pdd",
+      "font_class": "pdd",
+      "unicode": "ecdc",
+      "unicode_decimal": 60636
+    },
+    {
+      "icon_id": "36101014",
+      "name": "fliggy",
+      "font_class": "fliggy",
+      "unicode": "ecdd",
+      "unicode_decimal": 60637
+    },
+    {
+      "icon_id": "36101015",
+      "name": "eleme",
+      "font_class": "eleme",
+      "unicode": "ecde",
+      "unicode_decimal": 60638
+    },
+    {
+      "icon_id": "36101016",
+      "name": "xianyu",
+      "font_class": "xianyu",
+      "unicode": "ecdf",
+      "unicode_decimal": 60639
+    },
+    {
+      "icon_id": "36101017",
+      "name": "yuxian",
+      "font_class": "yuxian",
+      "unicode": "ece0",
+      "unicode_decimal": 60640
+    },
+    {
+      "icon_id": "36101018",
+      "name": "icon-kfckfc",
+      "font_class": "pinterest",
+      "unicode": "ece1",
+      "unicode_decimal": 60641
+    },
+    {
+      "icon_id": "36101019",
+      "name": "whatapp",
+      "font_class": "whatapp",
+      "unicode": "ece2",
+      "unicode_decimal": 60642
+    },
+    {
+      "icon_id": "36101020",
+      "name": "taopiaopiao",
+      "font_class": "taopiaopiao",
+      "unicode": "ece3",
+      "unicode_decimal": 60643
+    },
+    {
+      "icon_id": "36101021",
+      "name": "wechat-mp",
+      "font_class": "wechat-mp",
+      "unicode": "ece4",
+      "unicode_decimal": 60644
+    },
+    {
+      "icon_id": "36101022",
+      "name": "davinci",
+      "font_class": "davinci",
+      "unicode": "ece5",
+      "unicode_decimal": 60645
+    },
+    {
       "icon_id": "34782853",
       "name": "arrow-undo",
       "font_class": "arrow-undo",
