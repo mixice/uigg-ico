@@ -6,6 +6,125 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "39508795",
+      "name": "dji",
+      "font_class": "dji",
+      "unicode": "ecf2",
+      "unicode_decimal": 60658
+    },
+    {
+      "icon_id": "39508794",
+      "name": "aftereffects ",
+      "font_class": "aftereffects",
+      "unicode": "ecf4",
+      "unicode_decimal": 60660
+    },
+    {
+      "icon_id": "39508806",
+      "name": "twr",
+      "font_class": "twitter",
+      "unicode": "ece9",
+      "unicode_decimal": 60649
+    },
+    {
+      "icon_id": "39508805",
+      "name": "premiere",
+      "font_class": "premiere",
+      "unicode": "ecea",
+      "unicode_decimal": 60650
+    },
+    {
+      "icon_id": "39508808",
+      "name": "ray",
+      "font_class": "ray",
+      "unicode": "eceb",
+      "unicode_decimal": 60651
+    },
+    {
+      "icon_id": "39508800",
+      "name": "zorro",
+      "font_class": "zorro",
+      "unicode": "ecec",
+      "unicode_decimal": 60652
+    },
+    {
+      "icon_id": "39508807",
+      "name": "trace",
+      "font_class": "trace",
+      "unicode": "eced",
+      "unicode_decimal": 60653
+    },
+    {
+      "icon_id": "39508798",
+      "name": "enroll",
+      "font_class": "enroll",
+      "unicode": "ecee",
+      "unicode_decimal": 60654
+    },
+    {
+      "icon_id": "39508797",
+      "name": "penetrate",
+      "font_class": "penetrate",
+      "unicode": "ecef",
+      "unicode_decimal": 60655
+    },
+    {
+      "icon_id": "39508799",
+      "name": "photoshop",
+      "font_class": "photoshop",
+      "unicode": "ecf0",
+      "unicode_decimal": 60656
+    },
+    {
+      "icon_id": "39508796",
+      "name": "illustrator",
+      "font_class": "illustrator",
+      "unicode": "ecf1",
+      "unicode_decimal": 60657
+    },
+    {
+      "icon_id": "39508801",
+      "name": "divinatory",
+      "font_class": "divinatory",
+      "unicode": "eb3e",
+      "unicode_decimal": 60222
+    },
+    {
+      "icon_id": "39508810",
+      "name": "stacking",
+      "font_class": "stacking1",
+      "unicode": "ecdf",
+      "unicode_decimal": 60639
+    },
+    {
+      "icon_id": "39508803",
+      "name": "leaderboard",
+      "font_class": "leaderboard",
+      "unicode": "ece0",
+      "unicode_decimal": 60640
+    },
+    {
+      "icon_id": "39508809",
+      "name": "user-set",
+      "font_class": "user-set",
+      "unicode": "ece6",
+      "unicode_decimal": 60646
+    },
+    {
+      "icon_id": "39508802",
+      "name": "vv",
+      "font_class": "vv",
+      "unicode": "ece7",
+      "unicode_decimal": 60647
+    },
+    {
+      "icon_id": "39508804",
+      "name": "safety-user",
+      "font_class": "safety-user",
+      "unicode": "ece8",
+      "unicode_decimal": 60648
+    },
+    {
       "icon_id": "36101012",
       "name": "capcut",
       "font_class": "capcut",
@@ -32,20 +151,6 @@
       "font_class": "eleme",
       "unicode": "ecde",
       "unicode_decimal": 60638
-    },
-    {
-      "icon_id": "36101016",
-      "name": "xianyu",
-      "font_class": "xianyu",
-      "unicode": "ecdf",
-      "unicode_decimal": 60639
-    },
-    {
-      "icon_id": "36101017",
-      "name": "yuxian",
-      "font_class": "yuxian",
-      "unicode": "ece0",
-      "unicode_decimal": 60640
     },
     {
       "icon_id": "36101018",
@@ -3714,13 +3819,6 @@
       "font_class": "media-play",
       "unicode": "e95f",
       "unicode_decimal": 59743
-    },
-    {
-      "icon_id": "22028135",
-      "name": "stacking",
-      "font_class": "stacking",
-      "unicode": "ea5f",
-      "unicode_decimal": 59999
     },
     {
       "icon_id": "22028391",
@@ -10532,13 +10630,6 @@
       "font_class": "square-code",
       "unicode": "ea3e",
       "unicode_decimal": 59966
-    },
-    {
-      "icon_id": "22028358",
-      "name": "twitter",
-      "font_class": "twitter",
-      "unicode": "eb3e",
-      "unicode_decimal": 60222
     },
     {
       "icon_id": "22027335",
