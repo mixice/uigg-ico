@@ -6,6 +6,62 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "42812903",
+      "name": "camera-action",
+      "font_class": "camera-action",
+      "unicode": "ed09",
+      "unicode_decimal": 60681
+    },
+    {
+      "icon_id": "42812901",
+      "name": "cinema",
+      "font_class": "cinema",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "42812902",
+      "name": "cinema-disable",
+      "font_class": "cinema-disable",
+      "unicode": "eb20",
+      "unicode_decimal": 60192
+    },
+    {
+      "icon_id": "42812900",
+      "name": "camera-roll",
+      "font_class": "camera-roll",
+      "unicode": "eb23",
+      "unicode_decimal": 60195
+    },
+    {
+      "icon_id": "42812876",
+      "name": "focus",
+      "font_class": "focus",
+      "unicode": "ed05",
+      "unicode_decimal": 60677
+    },
+    {
+      "icon_id": "42812877",
+      "name": "decoration-circular",
+      "font_class": "decoration-circular",
+      "unicode": "ed06",
+      "unicode_decimal": 60678
+    },
+    {
+      "icon_id": "42812875",
+      "name": "lens",
+      "font_class": "lens",
+      "unicode": "ed07",
+      "unicode_decimal": 60679
+    },
+    {
+      "icon_id": "42812874",
+      "name": "auction",
+      "font_class": "auction",
+      "unicode": "ed08",
+      "unicode_decimal": 60680
+    },
+    {
       "icon_id": "41628316",
       "name": "circular-7",
       "font_class": "circular-7",
@@ -6901,13 +6957,6 @@
       "unicode_decimal": 60097
     },
     {
-      "icon_id": "22027466",
-      "name": "cameraroll",
-      "font_class": "cameraroll",
-      "unicode": "e7c2",
-      "unicode_decimal": 59330
-    },
-    {
       "icon_id": "22027722",
       "name": "folder-empty",
       "font_class": "folder-empty",
@@ -9806,13 +9855,6 @@
       "unicode_decimal": 59936
     },
     {
-      "icon_id": "22028328",
-      "name": "telecamera",
-      "font_class": "telecamera",
-      "unicode": "eb20",
-      "unicode_decimal": 60192
-    },
-    {
       "icon_id": "22027561",
       "name": "cloudy",
       "font_class": "cloudy",
@@ -9902,13 +9944,6 @@
       "font_class": "smoke",
       "unicode": "ea23",
       "unicode_decimal": 59939
-    },
-    {
-      "icon_id": "22028331",
-      "name": "telecamera-disable",
-      "font_class": "telecamera-disable",
-      "unicode": "eb23",
-      "unicode_decimal": 60195
     },
     {
       "icon_id": "22027307",
