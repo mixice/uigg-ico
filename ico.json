@@ -6,6 +6,258 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "44049539",
+      "name": "bnb",
+      "font_class": "bnb",
+      "unicode": "ed27",
+      "unicode_decimal": 60711
+    },
+    {
+      "icon_id": "44049545",
+      "name": "face-sad",
+      "font_class": "face-sad",
+      "unicode": "ed28",
+      "unicode_decimal": 60712
+    },
+    {
+      "icon_id": "44049537",
+      "name": "bridge",
+      "font_class": "bridge",
+      "unicode": "ed29",
+      "unicode_decimal": 60713
+    },
+    {
+      "icon_id": "44049535",
+      "name": "billfold",
+      "font_class": "billfold",
+      "unicode": "ed2a",
+      "unicode_decimal": 60714
+    },
+    {
+      "icon_id": "44049536",
+      "name": "avax",
+      "font_class": "avax",
+      "unicode": "ed2b",
+      "unicode_decimal": 60715
+    },
+    {
+      "icon_id": "44049534",
+      "name": "android-component",
+      "font_class": "android-component",
+      "unicode": "ed2c",
+      "unicode_decimal": 60716
+    },
+    {
+      "icon_id": "44049533",
+      "name": "advertisement-disable",
+      "font_class": "advertisement-disable",
+      "unicode": "ed2d",
+      "unicode_decimal": 60717
+    },
+    {
+      "icon_id": "44049544",
+      "name": "face-devil",
+      "font_class": "face-devil",
+      "unicode": "ed20",
+      "unicode_decimal": 60704
+    },
+    {
+      "icon_id": "44049541",
+      "name": "face-amazed",
+      "font_class": "face-amazed",
+      "unicode": "ed21",
+      "unicode_decimal": 60705
+    },
+    {
+      "icon_id": "44049548",
+      "name": "face-tongue",
+      "font_class": "face-tongue",
+      "unicode": "ed22",
+      "unicode_decimal": 60706
+    },
+    {
+      "icon_id": "44049540",
+      "name": "face-cool",
+      "font_class": "face-cool",
+      "unicode": "ed23",
+      "unicode_decimal": 60707
+    },
+    {
+      "icon_id": "44049538",
+      "name": "face-anger",
+      "font_class": "face-anger",
+      "unicode": "ed24",
+      "unicode_decimal": 60708
+    },
+    {
+      "icon_id": "44049546",
+      "name": "face-depressed",
+      "font_class": "face-depressed",
+      "unicode": "ed25",
+      "unicode_decimal": 60709
+    },
+    {
+      "icon_id": "44049542",
+      "name": "face-playful",
+      "font_class": "face-playful",
+      "unicode": "ed26",
+      "unicode_decimal": 60710
+    },
+    {
+      "icon_id": "44049554",
+      "name": "language",
+      "font_class": "language",
+      "unicode": "ed19",
+      "unicode_decimal": 60697
+    },
+    {
+      "icon_id": "44049549",
+      "name": "face-simper",
+      "font_class": "face-simper",
+      "unicode": "ed1a",
+      "unicode_decimal": 60698
+    },
+    {
+      "icon_id": "44049550",
+      "name": "face-wink",
+      "font_class": "face-wink",
+      "unicode": "ed1b",
+      "unicode_decimal": 60699
+    },
+    {
+      "icon_id": "44049543",
+      "name": "face-smile",
+      "font_class": "face-smile",
+      "unicode": "ed1c",
+      "unicode_decimal": 60700
+    },
+    {
+      "icon_id": "44049555",
+      "name": "pyramid",
+      "font_class": "pyramid",
+      "unicode": "ed1d",
+      "unicode_decimal": 60701
+    },
+    {
+      "icon_id": "44049547",
+      "name": "face-stupid",
+      "font_class": "face-stupid",
+      "unicode": "ed1e",
+      "unicode_decimal": 60702
+    },
+    {
+      "icon_id": "44049552",
+      "name": "lighthouse",
+      "font_class": "lighthouse",
+      "unicode": "ed1f",
+      "unicode_decimal": 60703
+    },
+    {
+      "icon_id": "44049562",
+      "name": "square-arrow-up",
+      "font_class": "square-arrow-up",
+      "unicode": "ed11",
+      "unicode_decimal": 60689
+    },
+    {
+      "icon_id": "44049561",
+      "name": "notice",
+      "font_class": "notice",
+      "unicode": "ed12",
+      "unicode_decimal": 60690
+    },
+    {
+      "icon_id": "44049560",
+      "name": "square-arrow-left",
+      "font_class": "square-arrow-left",
+      "unicode": "ed13",
+      "unicode_decimal": 60691
+    },
+    {
+      "icon_id": "44049559",
+      "name": "puzzle",
+      "font_class": "puzzle",
+      "unicode": "ed14",
+      "unicode_decimal": 60692
+    },
+    {
+      "icon_id": "44049558",
+      "name": "reverse",
+      "font_class": "reverse",
+      "unicode": "ed15",
+      "unicode_decimal": 60693
+    },
+    {
+      "icon_id": "44049557",
+      "name": "square-arrow-down",
+      "font_class": "square-arrow-down",
+      "unicode": "ed16",
+      "unicode_decimal": 60694
+    },
+    {
+      "icon_id": "44049551",
+      "name": "greatwall",
+      "font_class": "greatwall",
+      "unicode": "ed17",
+      "unicode_decimal": 60695
+    },
+    {
+      "icon_id": "44049556",
+      "name": "square-arrow-right",
+      "font_class": "square-arrow-right",
+      "unicode": "ed18",
+      "unicode_decimal": 60696
+    },
+    {
+      "icon_id": "44049567",
+      "name": "yuanbao",
+      "font_class": "yuanbao",
+      "unicode": "ed0a",
+      "unicode_decimal": 60682
+    },
+    {
+      "icon_id": "44049568",
+      "name": "subtitle",
+      "font_class": "subtitle",
+      "unicode": "ed0b",
+      "unicode_decimal": 60683
+    },
+    {
+      "icon_id": "44049566",
+      "name": "translate",
+      "font_class": "translate",
+      "unicode": "ed0c",
+      "unicode_decimal": 60684
+    },
+    {
+      "icon_id": "44049563",
+      "name": "xrp",
+      "font_class": "xrp",
+      "unicode": "ed0d",
+      "unicode_decimal": 60685
+    },
+    {
+      "icon_id": "44049565",
+      "name": "terminal",
+      "font_class": "terminal",
+      "unicode": "ed0e",
+      "unicode_decimal": 60686
+    },
+    {
+      "icon_id": "44049564",
+      "name": "tent",
+      "font_class": "tent",
+      "unicode": "ed0f",
+      "unicode_decimal": 60687
+    },
+    {
+      "icon_id": "44049553",
+      "name": "foldfan",
+      "font_class": "foldfan",
+      "unicode": "ed10",
+      "unicode_decimal": 60688
+    },
+    {
       "icon_id": "42812903",
       "name": "camera-action",
       "font_class": "camera-action",
