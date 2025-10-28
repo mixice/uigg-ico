@@ -6,6 +6,13 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "45906978",
+      "name": "whatsapp",
+      "font_class": "whatsapp",
+      "unicode": "ece2",
+      "unicode_decimal": 60642
+    },
+    {
       "icon_id": "44049539",
       "name": "bnb",
       "font_class": "bnb",
@@ -606,13 +613,6 @@
       "font_class": "pinterest",
       "unicode": "ece1",
       "unicode_decimal": 60641
-    },
-    {
-      "icon_id": "36101019",
-      "name": "whatapp",
-      "font_class": "whatapp",
-      "unicode": "ece2",
-      "unicode_decimal": 60642
     },
     {
       "icon_id": "36101020",
