@@ -6,6 +6,104 @@
   "description": "This icon is used for ui.gg bracket",
   "glyphs": [
     {
+      "icon_id": "47439982",
+      "name": "craft",
+      "font_class": "craft",
+      "unicode": "ed3a",
+      "unicode_decimal": 60730
+    },
+    {
+      "icon_id": "47439985",
+      "name": "minimax",
+      "font_class": "minimax",
+      "unicode": "ed3b",
+      "unicode_decimal": 60731
+    },
+    {
+      "icon_id": "47439989",
+      "name": "openai",
+      "font_class": "openai",
+      "unicode": "ed31",
+      "unicode_decimal": 60721
+    },
+    {
+      "icon_id": "47439991",
+      "name": "suffix-arw",
+      "font_class": "suffix-arw",
+      "unicode": "ed32",
+      "unicode_decimal": 60722
+    },
+    {
+      "icon_id": "47439986",
+      "name": "jimeng",
+      "font_class": "jimeng",
+      "unicode": "ed33",
+      "unicode_decimal": 60723
+    },
+    {
+      "icon_id": "47439990",
+      "name": "qianwen",
+      "font_class": "qianwen",
+      "unicode": "ed34",
+      "unicode_decimal": 60724
+    },
+    {
+      "icon_id": "47439988",
+      "name": "kimi",
+      "font_class": "kimi",
+      "unicode": "ed35",
+      "unicode_decimal": 60725
+    },
+    {
+      "icon_id": "47439987",
+      "name": "hunyuan",
+      "font_class": "hunyuan",
+      "unicode": "ed36",
+      "unicode_decimal": 60726
+    },
+    {
+      "icon_id": "47439981",
+      "name": "deepseek",
+      "font_class": "deepseek",
+      "unicode": "ed37",
+      "unicode_decimal": 60727
+    },
+    {
+      "icon_id": "47439983",
+      "name": "gemini",
+      "font_class": "gemini",
+      "unicode": "ed38",
+      "unicode_decimal": 60728
+    },
+    {
+      "icon_id": "47439984",
+      "name": "doubao",
+      "font_class": "doubao",
+      "unicode": "ed39",
+      "unicode_decimal": 60729
+    },
+    {
+      "icon_id": "47439993",
+      "name": "zhipu",
+      "font_class": "zhipu",
+      "unicode": "ed2e",
+      "unicode_decimal": 60718
+    },
+    {
+      "icon_id": "47439992",
+      "name": "openclaw",
+      "font_class": "openclaw",
+      "unicode": "ed2f",
+      "unicode_decimal": 60719
+    },
+    {
+      "icon_id": "47439994",
+      "name": "suffix-raw",
+      "font_class": "suffix-raw",
+      "unicode": "ed30",
+      "unicode_decimal": 60720
+    },
+    {
       "icon_id": "45906978",
       "name": "whatsapp",
       "font_class": "whatsapp",
